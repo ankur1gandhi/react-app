@@ -5,7 +5,7 @@ import Begin from "./components/begin";
 import Product from "./components/product";
 import "./styles/App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-
+  
 function App() {
   return (
     <Router>
